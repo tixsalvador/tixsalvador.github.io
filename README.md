@@ -4,4 +4,4 @@
 --------------------------------------------------
 
 ### tubero4hire:
-- [bad robot repo](https://github.com/tixsalvador/pixyTrex)
+- [bad.robot.repo](https://github.com/tixsalvador/pixyTrex)
