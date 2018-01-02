@@ -1,7 +1,6 @@
 ## t|x.salvador -> stderr
 --------------------------------------------------
-#### t|x.salvador whos.afraid.of.the.BigBadWolf!!
+#### t|x.salvador whos.afraid.of.the.BigBadWolf!! (tubero4hire)
 --------------------------------------------------
 
-### tubero4hire:
 - [bad.robot.repo](https://github.com/tixsalvador/pixyTrex)
