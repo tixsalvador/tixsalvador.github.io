@@ -1,6 +1,7 @@
-## t|x.salvador -> stderr
+## echo t|x.salvador > /tubero4hire
 --------------------------------------------------
-#### t|x.salvador whos.afraid.of.the.BigBadWolf!! (tubero4hire)
+#### fixing | for a living
 --------------------------------------------------
 
 - [bad.robot.repo](https://github.com/tixsalvador)
+- [wordpress running on kubernetes cluster](https://github.com/tixsalvador/kubernetes-wordpress)
