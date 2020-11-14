@@ -3,5 +3,5 @@
 #### fixing | for a living
 --------------------------------------------------
 
-- [bad.robot.repos](https://github.com/tixsalvador)
+- [bad.robot.repos](https://github.com/tixsalvador?tab=repositories)
 - [wordpress running on kubernetes cluster](https://github.com/tixsalvador/kubernetes-wordpress)
