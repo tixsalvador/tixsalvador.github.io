@@ -4,6 +4,4 @@
 --------------------------------------------------
 
 - [bad.robot.repos](https://github.com/tixsalvador?tab=repositories)
-- [provision vagrant glusterfs](https://github.com/tixsalvador/provision_vagrant_glusterfs)
-- [provision vagrant kubernetes cluster](https://github.com/tixsalvador/provision_vagrant_kubernetes_vms)
-- [wordpress running on kubernetes cluster](https://github.com/tixsalvador/kubernetes-wordpress)
+- [docker.repo](https://hub.docker.com/u/tixsalvador)
