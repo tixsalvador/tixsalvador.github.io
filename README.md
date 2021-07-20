@@ -5,4 +5,3 @@
 
 - [bad.robot.repo](https://github.com/tixsalvador?tab=repositories)
 - [docker.repo](https://hub.docker.com/u/tixsalvador)
-- [quay.io.repo](https://quay.io/user/tixsalvador)
